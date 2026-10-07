@@ -1,32 +1,28 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Hiten — profile artwork" />
+<img src="./assets/hero.jpg" width="100%" alt="Hiten — hero artwork" />
 
 <br><br>
 
-# H I T E N
+# HITEN
 
-### AI/ML × FULL-STACK ENGINEER
+### AI/ML × FULL-STACK BUILDER
 
-<sub>building things from idea → system → product</sub>
+<sub>engineering products, intelligent systems, and the occasional questionable late-night idea.</sub>
 
 <br><br>
 
-<a href="https://github.com/j25aiml192-hash">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:h90519495@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#">LinkedIn</a>
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/j25aiml192-hash)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:h90519495@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](#)
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-### K N O W &nbsp; A B O U T &nbsp; M E
+## 🧠 KNOW ABOUT ME
 
 </div>
 
@@ -34,96 +30,178 @@
 
 <table>
 <tr>
-<td width="43%" align="center" valign="middle">
-<img src="./assets/brain.png" width="88%" alt="Brain artwork" />
-</td>
-<td width="57%" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-### I build systems, not just interfaces.
-
-I'm **Hiten** — an AI/ML-focused engineer and full-stack product builder.
-
-I enjoy taking an idea from an empty repository to something that can actually be used — designing the product, building the interface, writing the backend, shaping the data layer, integrating intelligence, and getting the system into production.
-
-My interests sit around the intersection of:
-
-`AI` · `Product Engineering` · `Backend Systems` · `Automation`
-
-I'm especially interested in software that **reduces complexity instead of adding to it**.
-
-Right now I'm exploring AI-powered products, intelligent automation, agentic systems, scalable SaaS architecture, and the engineering required to turn ambitious ideas into reliable software.
-
-<br>
-
-<sub>student → engineer → builder</sub>
+<img src="./assets/brain.jpg" width="100%" alt="Brain artwork" />
 
 </td>
+
+<td width="58%" valign="middle">
+
+### I like turning messy ideas into working systems.
+
+I'm **Hiten** — an AI/ML-focused engineer and full-stack builder.
+
+I enjoy going all the way down the stack: understanding the problem, shaping the product, building the interface, designing the backend, wiring the data layer, adding intelligence where it actually helps, and getting the thing shipped.
+
+My current playground is the intersection of:
+
+**AI** · **Product Engineering** · **Backend Systems** · **Automation**
+
+I'm especially drawn to software that feels useful in the real world — not just impressive in a demo.
+
+Right now, I'm deepening my understanding of **AI systems, SaaS architecture, backend engineering, intelligent automation, and agentic software**.
+
+<br>
+
+> I don't want to just write more code.  
+> I want to build better systems.
+
+</td>
 </tr>
 </table>
 
 <br>
 
----
-
 <div align="center">
 
-### T H E &nbsp; W A Y &nbsp; I &nbsp; B U I L D
+## 🛠️ TECH STACK
 
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%"><b>01</b><br><br><b>THINK</b><br><sub>understand the problem<br>before writing the solution</sub></td>
-<td align="center" width="25%"><b>02</b><br><br><b>DESIGN</b><br><sub>reduce the system<br>to what actually matters</sub></td>
-<td align="center" width="25%"><b>03</b><br><br><b>BUILD</b><br><sub>turn the idea into<br>a working system</sub></td>
-<td align="center" width="25%"><b>04</b><br><br><b>SHIP</b><br><sub>put it in the hands<br>of real users</sub></td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### T E C H N O L O G Y
-
-<sub>tools I use to turn ideas into working systems</sub>
+<sub>the tools currently living in my brain cache</sub>
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/python" width="36" alt="Python"><br><sub>Python</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/typescript" width="36" alt="TypeScript"><br><sub>TypeScript</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/javascript" width="36" alt="JavaScript"><br><sub>JavaScript</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/cplusplus" width="36" alt="C++"><br><sub>C++</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/react" width="36" alt="React"><br><sub>React</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/nextdotjs" width="36" alt="Next.js"><br><sub>Next.js</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/nodedotjs" width="36" alt="Node.js"><br><sub>Node.js</sub></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/fastapi" width="36" alt="FastAPI"><br><sub>FastAPI</sub></td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"><br>
+<sub>Python</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"><br>
+<sub>TypeScript</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"><br>
+<sub>JavaScript</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" alt="C++"><br>
+<sub>C++</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"><br>
+<sub>React</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js"><br>
+<sub>Next.js</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"><br>
+<sub>Node.js</sub>
+
+</td>
+<td align="center" width="12.5%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI"><br>
+<sub>FastAPI</sub>
+
+</td>
 </tr>
+
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/postgresql" width="36" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/mongodb" width="36" alt="MongoDB"><br><sub>MongoDB</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/supabase" width="36" alt="Supabase"><br><sub>Supabase</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/redis" width="36" alt="Redis"><br><sub>Redis</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/docker" width="36" alt="Docker"><br><sub>Docker</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices" width="36" alt="AWS"><br><sub>AWS</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel" width="36" alt="Vercel"><br><sub>Vercel</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/git" width="36" alt="Git"><br><sub>Git</sub></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"><br>
+<sub>PostgreSQL</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"><br>
+<sub>MongoDB</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"><br>
+<sub>Redis</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"><br>
+<sub>Docker</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" alt="AWS"><br>
+<sub>AWS</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"><br>
+<sub>Git</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"><br>
+<sub>GitHub</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"><br>
+<sub>Linux</sub>
+
+</td>
 </tr>
+
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/github" width="36" alt="GitHub"><br><sub>GitHub</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss" width="36" alt="Tailwind CSS"><br><sub>Tailwind</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/figma" width="36" alt="Figma"><br><sub>Figma</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/tensorflow" width="36" alt="TensorFlow"><br><sub>TensorFlow</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/pytorch" width="36" alt="PyTorch"><br><sub>PyTorch</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/linux" width="36" alt="Linux"><br><sub>Linux</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/express" width="36" alt="Express"><br><sub>Express</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/railway" width="36" alt="Railway"><br><sub>Railway</sub></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" alt="TensorFlow"><br>
+<sub>TensorFlow</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" alt="PyTorch"><br>
+<sub>PyTorch</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind"><br>
+<sub>Tailwind</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" alt="Figma"><br>
+<sub>Figma</sub>
+
+</td>
+<td align="center" colspan="4">
+<sub><b>Also working with:</b> LLM APIs · embeddings · AI agents · REST APIs · SQL · cloud deployment</sub>
+</td>
 </tr>
 </table>
 
@@ -135,9 +213,9 @@ Right now I'm exploring AI-powered products, intelligent automation, agentic sys
 
 <div align="center">
 
-### S E L E C T E D &nbsp; W O R K
+## ⚡ SELECTED WORK
 
-<sub>a few systems I've actually spent time building</sub>
+<sub>five builds — different problems, same obsession with making the system work</sub>
 
 </div>
 
@@ -145,68 +223,83 @@ Right now I'm exploring AI-powered products, intelligent automation, agentic sys
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 01 / SPENDLY
+### 💸 SPENDLY
 
-**AI-powered SaaS spend intelligence.**
+**AI-powered SaaS spend intelligence**
 
-Enterprise SaaS spend management that connects finance, HR and identity data to surface unused seats, duplicate tools, renewal risk, savings opportunities and AI-assisted budget decisions.
-
-`React` `Express` `MongoDB` `Groq / LLaMA`
+A full-stack platform built to help organisations understand and optimise their SaaS spend — from subscription discovery and seat utilisation to duplicate-tool detection, renewal forecasting, invoice analysis, and AI-assisted recommendations.
 
 <br>
 
-<a href="https://github.com/j25aiml192-hash/Spendex">VIEW REPOSITORY →</a>
+`React` `Express` `MongoDB` `Groq`
+
+<br>
+
+[↗ View repository](https://github.com/j25aiml192-hash/spendly)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 02 / VIELFI
+### 🪙 VIELFI
 
-**A wallet-connected lending platform.**
+**Wallet-connected lending**
 
-A lending application built around borrower and lender workflows, onboarding, verification, loan discovery, dashboards, profiles, circles, notifications and wallet connectivity.
+A Web3-oriented lending application with borrower/lender flows, onboarding, loan creation, feed, dashboard, profiles, circles, notifications, and wallet connectivity.
+
+<br>
 
 `React` `Vite` `ethers` `Wallet`
 
 <br>
 
-<a href="https://github.com/j25aiml192-hash/vielfi">VIEW REPOSITORY →</a>
+[↗ View repository](https://github.com/j25aiml192-hash/vielfi)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 03 / NEXUS — SIH
+### 🧩 NEXUS — SIH
 
-**Predictive intelligence for cybercrime investigations.**
+**Predictive intelligence for cybercrime operations**
 
-A law-enforcement intelligence platform combining complaint ingestion, financial graphs, fraud-risk scoring, spatial prediction, H3 resolution, operational alerts and a feedback loop for model improvement.
+A system that combines complaint intelligence, financial graphs, risk scoring, spatial prediction, H3 mapping, explainability, and operational alerts into a proactive investigation workflow.
+
+<br>
 
 `FastAPI` `React` `ML` `Graph Intelligence`
 
 <br>
 
-<a href="https://github.com/j25aiml192-hash/nexus-SiH">VIEW REPOSITORY →</a>
+[↗ View repository](https://github.com/j25aiml192-hash/nexus-SiH)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 04 / NITISETU
+### 🏛️ NITISETU
 
-**AI-powered governance intelligence.**
+**AI-powered governance intelligence**
 
-A command platform for citizen grievances, AI classification, semantic clustering, SLA-breach monitoring, department analytics, geographic intelligence and AI-assisted administrative decisions.
+A governance platform that turns citizen complaints into structured intelligence using AI classification, semantic clustering, SLA monitoring, analytics, geographic monitoring, meeting analysis, and AI-assisted decision support.
+
+<br>
 
 `Next.js` `FastAPI` `PostgreSQL` `Gemini`
 
 <br>
 
-<a href="https://github.com/j25aiml192-hash/nitisetu-frontend">VIEW REPOSITORY →</a>
+[↗ View repository](https://github.com/j25aiml192-hash/nitisetu-frontend)
 
 </td>
+
 </tr>
 </table>
 
@@ -214,19 +307,21 @@ A command platform for citizen grievances, AI classification, semantic clusterin
 
 <div align="center">
 
-### 05 / JORVIS
+### 🤖 JORVIS
 
-**A desktop AI assistant built as a system.**
+**A desktop AI assistant, built as a system rather than a chat box.**
 
-Jorvis combines local wake-word detection, real-time speech recognition, LLM reasoning, function tools, text-to-speech, desktop controls and persistent memory. The current implementation uses OpenWakeWord, Deepgram, Llama 3.1 70B via NVIDIA NIM and SQLite-backed conversation memory.
+Wake-word detection → speech recognition → LLM reasoning → tool calling → memory → text-to-speech.
+
+Python, Deepgram, Llama-based reasoning, SQLite memory, and Windows automation come together to make the assistant feel a little more alive.
 
 <br>
 
 `Python` `LLM` `Deepgram` `SQLite` `Automation`
 
-<br><br>
+<br>
 
-<a href="https://github.com/j25aiml192-hash/jorvis">VIEW REPOSITORY →</a>
+[↗ View repository](https://github.com/j25aiml192-hash/jorvis)
 
 </div>
 
@@ -236,17 +331,15 @@ Jorvis combines local wake-word detection, real-time speech recognition, LLM rea
 
 <div align="center">
 
-### C U R R E N T &nbsp; F O C U S
+## 📡 CURRENTLY BUILDING / LEARNING
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="33%"><b>AI / ML</b><br><br><sub>LLM applications<br>AI agents<br>intelligent automation<br>ML systems</sub></td>
-<td align="center" width="33%"><b>ENGINEERING</b><br><br><sub>backend architecture<br>APIs<br>databases<br>infrastructure</sub></td>
-<td align="center" width="33%"><b>PRODUCT</b><br><br><sub>SaaS<br>developer tools<br>real-world products<br>shipping</sub></td>
-</tr>
-</table>
+`AI agents` &nbsp; `LLM systems` &nbsp; `backend architecture` &nbsp; `SaaS` &nbsp; `automation` &nbsp; `system design`
+
+<br><br>
+
+<sub>trying to become the engineer who can own the whole system — not just one layer of it.</sub>
 
 </div>
 
@@ -256,11 +349,17 @@ Jorvis combines local wake-word detection, real-time speech recognition, LLM rea
 
 <div align="center">
 
-### G I T H U B &nbsp; A C T I V I T Y
+## 📊 THE GITHUB SIDE
 
-<br>
+<br><br>
 
-<sub>The native contribution graph below already tells this story better than another wall of statistics.</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=j25aiml192-hash&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=F5F5F5&text_color=8D8D8D&icon_color=F5F5F5&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=j25aiml192-hash&hide_border=true&background=0D0D0F&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8D8D8D&dates=666666" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=j25aiml192-hash&bg_color=0D0D0F&color=FFFFFF&line=666666&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -270,49 +369,22 @@ Jorvis combines local wake-word detection, real-time speech recognition, LLM rea
 
 <div align="center">
 
-### T H I N G S &nbsp; I &nbsp; B E L I E V E
+## 🫱🏽‍🫲🏼 LET'S BUILD
 
 <br>
 
-> **Good software should feel inevitable.**
+Not looking to collect connections for the sake of collecting them.
 
-<br>
-
-<sub>
-Understand the problem deeply.<br>
-Keep the architecture understandable.<br>
-Remove what doesn't matter.<br>
-Ship what does.
-</sub>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### L E T ' S &nbsp; B U I L D
-
-<br>
-
-If you're working on something interesting around **AI, software systems, automation or ambitious products** —
+I'm interested in **interesting problems, ambitious products, AI systems, and people who actually ship.**
 
 <br><br>
 
-<a href="mailto:h90519495@gmail.com">GET IN TOUCH →</a>
+[**GitHub →**](https://github.com/j25aiml192-hash) &nbsp;&nbsp;·&nbsp;&nbsp;
+[**Email →**](mailto:h90519495@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp;
+[**LinkedIn →**](#)
 
 <br><br>
 
-<a href="https://github.com/j25aiml192-hash">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:h90519495@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#">LinkedIn</a>
-
-<br><br>
-
-<sub>Hiten · AI/ML · Full-Stack · Product Engineering</sub>
+<sub>☕ built somewhere between a terminal, too many tabs, and "one last feature"</sub>
 
 </div>
