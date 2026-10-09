@@ -2,27 +2,17 @@
 
 <img src="./assets/hero.jpg" width="100%" alt="Hiten — hero artwork" />
 
-<br>
+<!-- <br> -->
 
-<sub>INDEPENDENT BUILDER&nbsp; / &nbsp;AI × FULL-STACK&nbsp; / &nbsp;PERPETUAL WORK IN PROGRESS</sub>
+<!-- <sub>Caffineated BUILDER&nbsp; / &nbsp;AI × FULL-STACK&nbsp; / &nbsp;PERPETUAL WORK IN PROGRESS</sub> -->
 
 # turning ambitious ideas into things that actually work.
 
-<sub>Usually building something, breaking something, or wondering why it worked five minutes ago.</sub>
-
-<br>
-
-<a href="https://github.com/j25aiml192-hash">GITHUB ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:h90519495@gmail.com">EMAIL ↗</a>
-
 </div>
 
-<br>
 
----
 
-## 01 / neural network
+## 01 ME ??
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
@@ -51,7 +41,7 @@ I work across the stack: **interfaces, APIs, databases, AI workflows, automation
 
 ---
 
-## 02 / the toolbox
+## 02 The Stack
 
 <sub>Languages, frameworks, infrastructure, design tools—and a few AI sidekicks.</sub>
 
@@ -102,7 +92,7 @@ I work across the stack: **interfaces, APIs, databases, AI workflows, automation
 
 ---
 
-## 03 / shipped into the world
+## 03 Shipped Products
 
 <sub>Five projects. Different problems. One recurring theme: make the thing work.</sub>
 
@@ -157,7 +147,7 @@ I work across the stack: **interfaces, APIs, databases, AI workflows, automation
 
 ---
 
-## 04 / achievements
+## 04 Achievements
 
 <table width="100%" border="1" cellpadding="10" cellspacing="0" align="left">
 <colgroup><col width="32%"><col width="68%"></colgroup>
@@ -189,7 +179,7 @@ I work across the stack: **interfaces, APIs, databases, AI workflows, automation
 
 <div align="center">
 
-## 05 / keep in touch
+## 05 keep in touch
 
 <sub>OPEN TO GOOD IDEAS, COLLABORATION, AND PROJECTS THAT GET SLIGHTLY OUT OF HAND.</sub>
 
@@ -210,13 +200,13 @@ I work across the stack: **interfaces, APIs, databases, AI workflows, automation
 
 <img src="./assets/quote-loop-v11.gif" width="100%" alt="Rotating builder quotes" />
 
-<br><br>
+<!-- <br><br> -->
 
-<img src="https://komarev.com/ghpvc/?username=j25aiml192-hash&style=flat-square&color=161B22&label=visitors" alt="Profile visitors" />
+<!-- <img src="https://komarev.com/ghpvc/?username=j25aiml192-hash&style=flat-square&color=161B22&label=visitors" alt="Profile visitors" /> -->
 
-<br><br>
+<!-- <br><br> -->
 
-<sub>if it can be imagined, it can probably become a very questionable weekend project.</sub>
+<!-- <sub>if it can be imagined, it can probably become a very questionable weekend project.</sub> -->
 
 </div>
 
