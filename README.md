@@ -77,7 +77,7 @@
 
 <sub>Languages, frameworks, infrastructure, design tools—and a few AI sidekicks.</sub>
 
-<table width="100%" style="display:table;width:100%;min-width:100%;table-layout:fixed;" border="1" cellpadding="22" cellspacing="0">
+<table width="100%" align="left" style="width:100%;table-layout:fixed;" border="1" cellpadding="22" cellspacing="0">
 <colgroup><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"></colgroup>
 <tr>
 <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"><br><sub>javascript</sub></td>
@@ -116,9 +116,10 @@
 
 <br>
 
-<table width="100%" style="display:table;width:100%;min-width:100%;table-layout:fixed;" border="0" cellpadding="8" cellspacing="0">
-<tr><td align="center"><sub>AI & WORKFLOW SIDEKICKS</sub></td></tr>
-<tr><td align="center"><code>Claude</code> &nbsp;·&nbsp; <code>ChatGPT</code> &nbsp;·&nbsp; <code>Cursor</code> &nbsp;·&nbsp; <code>Railway</code> &nbsp;·&nbsp; <code>Render</code> &nbsp;·&nbsp; <code>Netlify</code> &nbsp;·&nbsp; <code>n8n</code> &nbsp;·&nbsp; <code>Notion</code> &nbsp;·&nbsp; <code>Web3</code></td></tr>
+<table width="100%" align="left" style="width:100%;table-layout:fixed;" border="0" cellpadding="8" cellspacing="0">
+<colgroup><col width="100%"></colgroup>
+<tr><td width="100%" align="center"><sub>AI & WORKFLOW SIDEKICKS</sub></td></tr>
+<tr><td width="100%" align="center"><code>Claude</code> &nbsp;·&nbsp; <code>ChatGPT</code> &nbsp;·&nbsp; <code>Cursor</code> &nbsp;·&nbsp; <code>Railway</code> &nbsp;·&nbsp; <code>Render</code> &nbsp;·&nbsp; <code>Netlify</code> &nbsp;·&nbsp; <code>n8n</code> &nbsp;·&nbsp; <code>Notion</code> &nbsp;·&nbsp; <code>Web3</code></td></tr>
 </table>
 
 <br>
