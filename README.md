@@ -14,29 +14,61 @@
 
 ## 01 ME ??
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<table border="0" width="100%" cellpadding="0" cellspacing="0" style="width:100%;table-layout:fixed;">
+<colgroup><col width="50%"><col width="50%"></colgroup>
 <tr>
-<td width="46%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 <img src="./assets/brain.jpg" width="100%" alt="Monochrome neural brain artwork" />
 </td>
-<td width="54%" valign="middle" align="left">
-
-### hi, I'm Hiten.
-
-An AI/ML-focused engineer and full-stack builder. I like taking ideas that are a little too ambitious, figuring out how the pieces fit together, and shipping something people can actually use.
-
-I work across the stack: **interfaces, APIs, databases, AI workflows, automation, and infrastructure.** I care about the whole product—not just the part that looks good in a screenshot.
-
-<br>
-
-`CURRENT MODE` &nbsp; **build → break → debug → ship → repeat**
-
-<sub>Personal operating principle: less noise, better systems, more things shipped.</sub>
-
+<td width="50%" valign="middle" align="left">
+<table border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#090c10" style="width:100%;table-layout:fixed;border-color:#29323c;">
+<tr>
+<td bgcolor="#151a20" cellpadding="0" valign="middle">
+<table border="0" width="100%" cellpadding="7" cellspacing="0" bgcolor="#151a20">
+<!-- <tr>
+<td width="24%"><code><span style="color:#f28b82">●</span> <span style="color:#fbbc04">●</span> <span style="color:#81c995">●</span></code></td>
+<td align="center"><code><span style="color:#d8e1e8">profile.ts</span></code></td>
+<td width="14%" align="right"><code><span style="color:#91b6c9">TS</span></code></td>
+</tr> -->
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#090c10" valign="top"><table border="0" width="100%" cellpadding="10" cellspacing="0" bgcolor="#090c10"><tr><td bgcolor="#090c10">
+<code style="font-family:Consolas,Monaco,monospace;font-size:12px;line-height:1.2;white-space:normal;overflow-wrap:anywhere;">
+<span style="color:#718096">01</span>&nbsp;&nbsp;<span style="color:#d8a7d8">export const</span>&nbsp;<span style="color:#a6d9e8">Hiten</span>&nbsp;<span style="color:#dce6ef">= {</span><br>
+<span style="color:#718096">02</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">name</span><span style="color:#dce6ef">: </span><span style="color:#c5e8d3">&quot;Hiten&quot;</span><span style="color:#dce6ef">,</span>&nbsp;<span style="color:#7f8b99">// yep, that's me</span><br>
+<span style="color:#718096">03</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">location</span><span style="color:#dce6ef">: </span><span style="color:#c5e8d3">&quot;Delhi, India&quot;</span><span style="color:#dce6ef">,</span><br>
+<span style="color:#718096">04</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">education</span><span style="color:#dce6ef">: </span><span style="color:#c5e8d3">&quot;B.Tech CSE (AI/ML)&quot;</span><span style="color:#dce6ef">,</span><br>
+<span style="color:#718096">05</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">role</span><span style="color:#dce6ef">: </span><span style="color:#c5e8d3">&quot;AI/ML Engineer &amp; Full-Stack Builder&quot;</span><span style="color:#dce6ef">,</span><br>
+<span style="color:#718096">06</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">interests</span><span style="color:#dce6ef">: [</span>&nbsp;<span style="color:#7f8b99">// things i enjoy</span><br>
+<span style="color:#718096">07</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#c5e8d3">&quot;AI/ML&quot;, &quot;Full-Stack Development&quot;, &quot;Hackathons&quot;</span><span style="color:#dce6ef">,</span><br>
+<span style="color:#718096">08</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#c5e8d3">&quot;Automation&quot;, &quot;Product Design&quot;, &quot;Cloud &amp; Infra&quot;</span><span style="color:#dce6ef">,</span><br>
+<span style="color:#718096">09</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#c5e8d3">&quot;Side Projects&quot;,&quot;Good Food&quot;</span><br>
+<span style="color:#718096">10</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dce6ef">],</span><br>
+<span style="color:#718096">11</span><br>
+<span style="color:#718096">12</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">currentFocus</span><span style="color:#dce6ef">: [</span>&nbsp;<span style="color:#7f8b99">// currently exploring</span><br>
+<span style="color:#718096">13</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#c5e8d3">&quot;DSA&quot;, &quot;AI Agents&quot;, &quot;ML Systems&quot;</span><span style="color:#dce6ef">,</span><br>
+<span style="color:#718096">14</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#c5e8d3">&quot;Scalable Backends&quot;, &quot;Interesting Problems&quot;</span><br>
+<span style="color:#718096">15</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#dce6ef">],</span><br>
+<span style="color:#718096">16</span><br>
+<span style="color:#718096">17</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#9bc7f5">funFact</span><span style="color:#dce6ef">: </span><span style="color:#c5e8d3">&quot;I can code, yap for hours, and still be excited at 2 AM.&quot;</span><br>
+<span style="color:#718096">18</span>&nbsp;&nbsp;<span style="color:#dce6ef">};</span>
+</code>
+</td></tr></table>
+</td>
+</tr>
+<tr>
+<!-- <td bgcolor="#151a20">
+<table border="0" width="100%" cellpadding="6" cellspacing="0" bgcolor="#151a20">
+<tr><td><code><span style="color:#81c995">●</span> <span style="color:#9aa7b4">student → builder → better systems</span></code></td><td align="right"><code><span style="color:#9aa7b4">UTF-8</span></code></td></tr> -->
+</table>
 </td>
 </tr>
 </table>
-
+</td>
+</tr>
+</table>
 <br>
 
 ---
@@ -45,45 +77,46 @@ I work across the stack: **interfaces, APIs, databases, AI workflows, automation
 
 <sub>Languages, frameworks, infrastructure, design tools—and a few AI sidekicks.</sub>
 
-<table width="100%" align="left" border="1" cellpadding="10" cellspacing="0">
+<table width="100%" style="display:table;width:100%;min-width:100%;table-layout:fixed;" border="1" cellpadding="22" cellspacing="0">
+<colgroup><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"><col width="11.111%"></colgroup>
 <tr>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"><br><sub>javascript</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"><br><sub>typescript</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=py" width="40" alt="Python"><br><sub>python</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++"><br><sub>c++</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=c" width="40" alt="C"><br><sub>c</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML"><br><sub>html</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS"><br><sub>css</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="SQL"><br><sub>sql</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=solidity" width="40" alt="Solidity"><br><sub>solidity</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"><br><sub>javascript</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"><br><sub>typescript</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"><br><sub>python</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"><br><sub>c++</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"><br><sub>c</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"><br><sub>html</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"><br><sub>css</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL"><br><sub>sql</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=solidity" width="48" alt="Solidity"><br><sub>solidity</sub></td>
 </tr>
 <tr>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"><br><sub>react</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js"><br><sub>next.js</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite"><br><sub>vite</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js"><br><sub>node.js</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express"><br><sub>express</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind"><br><sub>tailwind</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB"><br><sub>mongodb</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase"><br><sub>supabase</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"><br><sub>postgresql</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"><br><sub>react</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"><br><sub>next.js</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite"><br><sub>vite</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"><br><sub>node.js</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"><br><sub>express</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"><br><sub>tailwind</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"><br><sub>mongodb</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"><br><sub>supabase</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"><br><sub>postgresql</sub></td>
 </tr>
 <tr>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase"><br><sub>firebase</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel"><br><sub>vercel</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"><br><sub>git</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"><br><sub>github</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"><br><sub>figma</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"><br><sub>vscode</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"><br><sub>postman</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker"><br><sub>docker</sub></td>
-<td width="11.11%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"><br><sub>linux</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"><br><sub>firebase</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"><br><sub>vercel</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"><br><sub>git</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"><br><sub>github</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"><br><sub>figma</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"><br><sub>vscode</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"><br><sub>postman</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"><br><sub>docker</sub></td>
+<td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"><br><sub>linux</sub></td>
 </tr>
 </table>
 
 <br>
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<table width="100%" style="display:table;width:100%;min-width:100%;table-layout:fixed;" border="0" cellpadding="8" cellspacing="0">
 <tr><td align="center"><sub>AI & WORKFLOW SIDEKICKS</sub></td></tr>
 <tr><td align="center"><code>Claude</code> &nbsp;·&nbsp; <code>ChatGPT</code> &nbsp;·&nbsp; <code>Cursor</code> &nbsp;·&nbsp; <code>Railway</code> &nbsp;·&nbsp; <code>Render</code> &nbsp;·&nbsp; <code>Netlify</code> &nbsp;·&nbsp; <code>n8n</code> &nbsp;·&nbsp; <code>Notion</code> &nbsp;·&nbsp; <code>Web3</code></td></tr>
 </table>
