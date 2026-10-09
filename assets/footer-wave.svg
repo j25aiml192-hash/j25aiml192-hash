@@ -1,0 +1,8 @@
+<svg width="1600" height="300" viewBox="0 0 1600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="300" fill="#0D1117"/>
+<path d="M0 105C180 175 300 175 480 105C660 35 780 35 960 105C1140 175 1260 175 1440 105C1510 78 1560 78 1600 88V300H0V105Z" fill="#161B22"/>
+<path d="M0 105C180 175 300 175 480 105C660 35 780 35 960 105C1140 175 1260 175 1440 105C1510 78 1560 78 1600 88" stroke="#30363D" stroke-width="2"/>
+<text x="800" y="190" text-anchor="middle" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">build things worth remembering ✦</text>
+<text x="800" y="225" text-anchor="middle" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="15">still learning · still shipping · occasionally debugging at 3 AM ☕</text>
+<text x="800" y="260" text-anchor="middle" fill="#6E7681" font-family="Arial, Helvetica, sans-serif" font-size="13">github · email · linkedin</text>
+</svg>
