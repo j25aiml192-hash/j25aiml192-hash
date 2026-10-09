@@ -4,19 +4,7 @@
 
 <br><br>
 
-**hiten** &nbsp; `AI/ML` · `Full-Stack` · `Builder`
 
-<sub>building useful things, breaking them, fixing them, and shipping them.</sub>
-
-<br><br>
-
-<a href="https://github.com/j25aiml192-hash">GitHub</a> &nbsp;·&nbsp;
-<a href="mailto:h90519495@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="#">LinkedIn</a>
-
-</div>
-
-<br><br>
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
 <tr>
